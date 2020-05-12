@@ -1,2 +1,9 @@
-node_modules
-yarn-error.log
+_site/
+*.sw[po]
+*.~vsd
+\#*\#
+*~
+.DS_Store
+Gemfile.lock
+.vscode/
+.jekyll-metadata
